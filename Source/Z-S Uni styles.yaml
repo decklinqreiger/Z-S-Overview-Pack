@@ -1,0 +1,279 @@
+backgroundOrder:
+- 11
+- 13
+- 44
+- 52
+- 12
+- 14
+- 15
+- 16
+- 45
+- 49
+- 51
+- 50
+- 9
+- 19
+- 18
+- 53
+- 10
+- 20
+- 21
+- 17
+- 48
+backgroundStates:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+columnOrder:
+- TAG
+- ICON
+- DISTANCE
+- NAME
+- TYPE
+- FACTION
+- MILITIA
+- SIZE
+- ANGULARVELOCITY
+- VELOCITY
+- TRANSVERSALVELOCITY
+- CORPORATION
+- ALLIANCE
+- RADIALVELOCITY
+flagOrder:
+- 11
+- 13
+- 44
+- 52
+- 12
+- 14
+- 15
+- 16
+- 45
+- 9
+- 51
+- 50
+- 53
+- 19
+- 18
+- 49
+- 10
+- 17
+- 48
+- 21
+- 20
+flagStates:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 21
+- 44
+- 45
+- 49
+- 50
+- 51
+- 52
+- 53
+overviewColumns:
+- ALLIANCE
+- ANGULARVELOCITY
+- CORPORATION
+- DISTANCE
+- ICON
+- NAME
+- TAG
+- TYPE
+- VELOCITY
+shipLabelOrder:
+- ship type
+- alliance
+- corporation
+- ship name
+- null
+- pilot name
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - ']</b></fontsize>'
+    - - state
+      - 1
+    - - type
+      - null
+- - alliance
+  - - - post
+      - ']</color></fontsize>'
+    - - pre
+      - <fontsize=12><color=0xFFFEFF6F> [
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - ''
+    - - pre
+      - ' <fontsize=10><b>['
+    - - state
+      - 1
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - ']</fontsize><color=0xFFFFFFFF><b> -'
+    - - pre
+      - '<fontsize=10> ['
+    - - state
+      - 1
+    - - type
+      - pilot name
+- - ship name
+  - - - post
+      - </i>
+    - - pre
+      - ' <i>'
+    - - state
+      - 0
+    - - type
+      - ship name
+- - ship type
+  - - - post
+      - </u></b></color></fontsize>
+    - - pre
+      - <fontsize=12><color=0xFFFEBB64><b> <u>
+    - - state
+      - 1
+    - - type
+      - ship type
+stateBlinks:
+- - background_13
+  - true
+- - background_44
+  - true
+- - background_50
+  - true
+- - background_51
+  - true
+- - background_52
+  - true
+- - background_9
+  - true
+- - flag_13
+  - true
+- - flag_44
+  - true
+- - flag_50
+  - true
+- - flag_51
+  - true
+- - flag_52
+  - true
+- - flag_9
+  - true
+stateColorsNameList:
+- - background_10
+  - white
+- - background_12
+  - green
+- - background_16
+  - blue
+- - background_18
+  - orange
+- - background_20
+  - white
+- - background_21
+  - white
+- - background_44
+  - red
+- - background_45
+  - darkBlue
+- - background_48
+  - white
+- - background_49
+  - blue
+- - background_50
+  - yellow
+- - background_51
+  - red
+- - background_52
+  - turquoise
+- - background_53
+  - white
+- - background_9
+  - orange
+- - flag_44
+  - orange
+- - flag_48
+  - black
+tabSetup:
+- - 0
+  - - - bracket
+      - '⌘ Brackets: Combat/Targets/Friendly (-Dro)'
+    - - name
+      - <fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>
+    - - overview
+      - <color=0xFFFFFFFF>✈ Travel (+Ship +Sta)</color>
+- - 1
+  - - - bracket
+      - '⌘ Brackets: Combat/Targets/Friendly (-Dro)'
+    - - name
+      - <color=0xFFFF6666><b>  Combat  </b></color>
+    - - overview
+      - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
+- - 2
+  - - - bracket
+      - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
+    - - name
+      - <color=0xFFFD9666><b>  Targets  </b></color>
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: Drones</color>'
+- - 3
+  - - - bracket
+      - '⌘ Brackets: Combat/Targets/Friendly (-Dro)'
+    - - name
+      - <color=0xFFD38FFD><b>  Misc  </b></color>
+    - - overview
+      - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
+- - 4
+  - - - bracket
+      - '⌘ Brackets: Combat/Targets/Friendly (-Dro)'
+    - - name
+      - <color=0xFF66CCFF><b>  Friendly  </b></color>
+    - - overview
+      - '<color=0xFF66CCFF>✪ --- Friendly: All (-Dro)</color>'
+- - 5
+  - - - bracket
+      - '⌘ Brackets: Warpout (!)'
+    - - name
+      - <color=0xFF66FF66><b>  Warpout!  </b></color>
+    - - overview
+      - '<color=0xFF66FF66>➲ Extra: Podsaver (!)</color>'
+userSettings:
+- - overviewBroadcastsToTop
+  - true
