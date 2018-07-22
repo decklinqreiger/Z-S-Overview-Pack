@@ -46,6 +46,7 @@ Title says it all, twisted way of showing support <3
 1. **Alberdina** - 500.000.000 ISK
 1. **Astroco** - 500.000.000 ISK [Corp]
 1. **Sindarin Alliance** - 250.000.000 ISK
+1. **Ser Ganglion** - 200.000.000 ISK
 1. **aredd05** - 153.000.000 ISK
 1. **Eirellle** - 152.205.120 ISK
 1. **Razr Wolfgang** - 150.000.000 ISK
@@ -66,6 +67,7 @@ Title says it all, twisted way of showing support <3
 1. **Alice Adraer** - 100.000.000 ISK
 1. **Mo Iskies** - 100.000.000 ISK
 1. **Notatallsane** - 100.000.000 ISK
+1. **NewTwixies** - 100.000.000 ISK
 1. **Ultimate-Pilot Destiny** - 78.476.429 ISK
 1. **HotterThanYou2** - 50.000.000 ISK
 1. **Aedron** - 50.000.000 ISK
