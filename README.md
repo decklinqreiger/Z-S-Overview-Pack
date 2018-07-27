@@ -1,4 +1,4 @@
-<img src="images/Z-S_Logo_2.png" align="right" />
+<img src="docs/images/Z-S_Overview_P-Round.png" align="right" height="70" width="70" />
 
 # Z-S Overview Pack
 ### Overview Pack for EVE Online
@@ -9,16 +9,18 @@ What started as a stop-gap measure back in early 2016 to bring the SaraShawa Ove
 
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
-<img src="images/Zirio.jpg" align="left" height="60" width="60" />
+<img src="docs/images/Zirio.jpg" align="left" height="60" width="60" />  
 
 &nbsp;  
 **Zirio** - YAML Coding, Pack Maintenance & Long Term Updates  
 &nbsp;  
-<img src="images/Deuce.jpg" align="left" height="60" width="60" />
 
+<img src="docs/images/Deuce.jpg" align="left" height="60" width="60" />  
+
+&nbsp;  
 **Deuce Syundai** - Design & Text Formatting
-
-&nbsp;
+&nbsp;  
+&nbsp;  
 
 #### New features include:
 
@@ -29,11 +31,11 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 ___
 
-#### Current Version: v7.00.0235
+#### Current Version: v8.24.1927
 
-- Updated: **2017.10.30**
-- For Release: **Lifeblood**
-- Compatible: **Lifeblood**
+- Updated: **2018.07.22**
+- For Release: **Into The Abyss**
+- Compatible: **Into The Abyss**
 
 #### Links
 
@@ -83,10 +85,10 @@ ___
 #### Method 2: In-game, from `Z-S Overview` chat channel
 
 1. Open up your Overview Settings ( ≡ button at top left of the Overview window).  
-![Step 1](images/Step_1a.png "Step 1")
+![Step 1](docs/images/Step_1a.png "Step 1")
 
 2. Go to the "Misc" tab and click `Reset All Overview Settings`  
-![Step 2](images/Step_1b.png "Step 2")  
+![Step 2](docs/images/Step_1b.png "Step 2")  
     - You **MUST** do this the first time you install.
     - This prevents any weirdness that may be caused by any changes already made to the overview.
 
@@ -94,36 +96,40 @@ ___
 This is the only **required** preset pack.  
 When combined with a Tab Layout, it includes the following presets for a minimal setup:
 	- Core Presets  
-    ![Core + Layout](images/Core_+_Layout.png "Core Presets")  
+    ![Core + Layout](docs/images/Core_+_Layout.png "Core Presets")  
 	- All **Travel**, **Warpout** & **Brackets** presets
-	- **PvE: Basic** & **PvE: Salvage/Loot**
-	- **PvP: Basic** & **Target: Drones**
+	- **PvX: Basic** and **PvX: Salvage/Loot**
+    - **Target: Drones**
 	- **Friendly: All** & **Friendly Fleet**
 	- **D-Scan: All**
 
 4. (Optional) Apply any of the following Optional preset packs by clicking on their links.  
 You may need them for more specialized presets:
-	- `Z-S PvE Advanced` contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
-	- `Z-S PvP Advanced` contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
-	- `Z-S PvP Extended` packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
+	- `Z-S PvX 1` contains presets for gang and fleet engagements.
+    - `Z-S PvX 2` contains presets for solo and niche fleet engagements.
+	- `Z-S Targets` packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
 	- `Z-S Friendly Extended` includes presets for Capitals, Supercapitals, Carriers, Dictors, Dreads, Logi, and Recon.
 	- `Z-S D-Scan Extended` contains more finely-tuned presets specifically for the D-Scan filter.
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
 	- Note the instructions on the tab.  
-    ![Pack Loaded](images/Pack_Loaded.png "Pack Loaded!")  
-    ![PvP Basic](images/PvP_Basic.png "Basic Full Loadout")  ![PvP Extended](images/PvP_Extended.png "Extended Full Loadout")  
+    
+    ![Pack Loaded](docs/images/Pack_Loaded.png "Pack Loaded!")  
+    
+    ![PvP Basic](docs/images/PvP_Basic.png "Basic Full Loadout")  
+    
+    ![PvP Extended](docs/images/PvP_Extended.png "Extended Full Loadout")  
 
 5. To finish and set up the tabs, apply a Tab Layout by clicking on their links.  
 Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or shorter names for reduced tab width.  
 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
  - `Standard` tab layout  
- ![Standard Tabs](images/Standard_Tabs.png "Standard")  
+ ![Standard Tabs](docs/images/Standard_Tabs.png "Standard")  
  - `Compact` tab layout  
- ![Compact Tabs](images/Compact_Tabs.png "Compact")  
+ ![Compact Tabs](docs/images/Compact_Tabs.png "Compact")  
  - `1BL` Brackets  
- ![1 Bracket Line](images/1_Bracket_Line.png "1BL") 
+ ![1 Bracket Line](docs/images/1_Bracket_Line.png "1BL") 
  - `2BL` Brackets  
- ![2 Bracket Lines](images/2_Bracket_Lines.png "2BL")   
+ ![2 Bracket Lines](docs/images/2_Bracket_Lines.png "2BL")   
 	- You can alternate between Layouts at any time without reloading the entire pack by clicking on their links.
 	- _Some features might not show correctly at first, it may be necessary to open the Overview Settings again, then select the Ships tab to reload the UI to force a resync and apply all changes._
 
@@ -173,84 +179,85 @@ ___
 - Z-S Core
 
         ⌘ Brackets: Combat/Targets/Friendly (-Dro)
+        ⌘ Brackets: Incursion
         ⌘ Brackets: Misc
         ⌘ Brackets: Travel
         ➲ Extra: Align Points
         ✈ --- Travel: All
         ✈ Travel (+Ship -Sta)
-        ✜ --- PvE: Basic (-Dro)
         ✪ = Friendly: Fleet
         ※ --- D-Scan: All
 
 - Z-S D-Scan Extended
 
-        ※ D-Scan: Hunter (+Dro / Offensive)
-        ※ D-Scan: Hunter (-Dro / Offensive)
+        ※ D-Scan: Hunter (+Dro) (Offensive)
+        ※ D-Scan: Hunter (-Dro) (Offensive)
         ※ D-Scan: POS (+Cel +Mod)
         ※ D-Scan: POS (+Cel -Mod)
         ※ D-Scan: POS (-Cel +Mod)
-        ※ D-Scan: Ships (+Dro / Defensive)
-        ※ D-Scan: Ships (-Dro / Defensive)
+        ※ D-Scan: Ships (Defensive)
 
 - Z-S Friendly Extended
 
-        ✪ --- Friendly: All (+Dro)
+        ✪ Friendly: All Caps
         ✪ Friendly: Capitals
         ✪ Friendly: Carriers
         ✪ Friendly: Dictors
         ✪ Friendly: Dreads
+        ✪ Friendly: Flag
         ✪ Friendly: Logistics
         ✪ Friendly: Recons
         ✪ Friendly: SC/T
 
-- Z-S PvE Advanced
+- Z-S PvX 1
 
-        ✜ --- PvE: Basic (+Dro)
-        ✜ --- PvE: Mission Filter (+LCO +LCS)
-        ✜ PvE: Anoms (+Dro)
-        ✜ PvE: Anoms (-Dro)
-        ✜ PvE: Incursion
-        ✜ PvE: Mining
-        ✜ PvE: Ratting
+        ✜ --- PvX: Basic (+Neut -NPC)
+        ✜ --- PvX: Basic (-Neut +NPC)
+        ✜ --- PvX: Basic (-Neut -NPC)
+        ✜ -- Ships only
+        ✜ = CovOps: Collidables
+        ✜ = Deployables
+        ✜ = NPSI
+        ✜ = Structures
+        ✜ = Wartargets
 
-- Z-S PvP Advanced
+- Z-S PvX 2
 
-        ✥ --- PvP: Basic (+Neut -NPC)
-        ✥ --- PvP: Basic (-Neut +NPC)
-        ✥ --- PvP: Basic (-Neut -NPC)
-        ✥ -- Ships only
-        ✥ = CovOps: Collidables
-        ✥ = Deployables
-        ✥ = NPSI
-        ✥ = Structures
-        ✥ = Wartargets
-        ✥ PvP: Exploring
-        ✥ PvP: FW
-        ✥ PvP: PI
+        ✜ PvX: Anoms
+        ✜ PvX: Exploring
+        ✜ PvX: FW
+        ✜ PvX: Incursion
+        ✜ PvX: Mining - All
+        ✜ PvX: Mining - Moon
+        ✜ PvX: Mission Filter (+LCO +LCS)
+        ✜ PvX: PI
+        ✜ PvX: Ratting
 
-- Z-S PvP Extended (1/2)
+- Z-S Targets Caps
+
+        ✥ Target: All Caps
+        ✥ Target: Carriers
+        ✥ Target: Dreads
+        ✥ Target: Fax
+        ✥ Target: Fighters
+        ✥ Target: SC/T
+        ✥ Target: Supercarriers
+        ✥ Target: Titans
+
+- Z-S Targets Subcaps
 
         ✥ Target: Antibombers (!)
         ✥ Target: Battlecruisers
         ✥ Target: Battleships
-        ✥ Target: Caps
-        ✥ Target: Carriers
         ✥ Target: Cmd Dest
         ✥ Target: Cruisers
         ✥ Target: CS/T3
         ✥ Target: Dictors
-        ✥ Target: Dreads
-
-- Z-S PvP Extended (2/2)
-
-        ✥ Target: Fax
-        ✥ Target: Fighters
+        ✥ Target: Flag
         ✥ Target: Frig/Dest
         ✥ Target: Logistics
+        ✥ Target: Pods
         ✥ Target: Recons
-        ✥ Target: SC/T
-        ✥ Target: Supercarriers
-        ✥ Target: Titans
 
 - All 4 Layouts (Standard 2BL & 1BL, Compact 2BL & 1BL)
 
@@ -258,10 +265,10 @@ ___
         ⌘ Brackets: Warpout (!)
         ➲ Extra: Podsaver (!)
         ✈ Travel (-Ship +Sta)
-        ✜ PvE: Salvage/Loot
-        ✥ --- PvP: Basic (+Neut +NPC)
+        ✜ --- PvX: Basic (+Neut +NPC)
+        ✜ PvX: Salvage/Loot
         ✥ Target: Drones
-        ✪ --- Friendly: All (-Dro)
+        ✪ --- Friendly: All
 
 #### Nomenclature
 
@@ -276,7 +283,7 @@ ___
 
 #### Pack colors
 
-![Colors](images/Colors.png "Colors")
+![Colors](docs/images/Colors.png "Colors")
 
 ___
 
@@ -295,6 +302,11 @@ You might not like Z-S's style, its presets and/or the whole pack just doesn't a
 Fear not! Other players have taken upon themselves to make Overview Packs in different flavours and/or for specific purposes.  
 
 Here are the most popular and up-to-date ones:  
+
+- **[SaraShawa Overview Pack](https://www.reddit.com/r/Eve/comments/8ndmy1/sarashawa_overview_pack_v_102_into_the_abyss/)**  
+    The Overview Pack that continued Sarah's legacy, **Oh Takashawa** saw **Sarah's** great effort and set his goal to continue her work, making one of the best Overview Packs the players have used.
+    - In-game chat channel: **SaraShawa Overview**
+    - In-game Mailing List: **Overview** , **Overview2**, **Overview3** and **Overview4**
 
 - **Charlie Parker Sidrat's Overview**  
     Not found on any mailing list or website, simply contact **Sidrat Flush** in game, eve mail or a forum message for a copy. He strongly urges you to edit to suit your own play style.
@@ -318,12 +330,6 @@ The same as in real life, some things come and some things go, Overview Packs ar
 Many players have made an effort to make and maintain very successful and useful Overview Packs but everyone gets tired at one point or take long breaks from EVE.  
 
 You all shall be remembered for your efforts so future Overview Pack creators can learn from past experiences.  
-
-- **[SaraShawa Overview Pack](https://www.reddit.com/r/Eve/comments/4b3rzx/sarashawa_overview_pack_version_9_released/)**  
-    The Overview Pack that continued Sarah's legacy, **Oh Takashawa** saw **Sarah's** great effort and set his goal to continue her work, making one of the best Overview Packs the players have used.
-    - In-game chat channel: **SaraShawa Overview**
-    - In-game Mailing List: **Overview** , **Overview2**, **Overview3** and **Overview4**
-
 
 - **[Sarah's Overview Pack](http://forums.ponywaffe.org/topic/1697-sarahs-overview-pack%E2%84%A2-rel-034/)**  
     The Overview Pack that started it all, **Sarah Schneider** pioneered the Overview customization, giving a very important tool to PonyWaffe and many other players around the game to use while doing the combat and other tasks we all love in EVE.

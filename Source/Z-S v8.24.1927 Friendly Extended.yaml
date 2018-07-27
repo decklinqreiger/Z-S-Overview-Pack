@@ -108,12 +108,11 @@ overviewColumns:
 - DISTANCE
 - ICON
 - NAME
-- TAG
 - TRANSVERSALVELOCITY
 - TYPE
 - VELOCITY
 presets:
-- - '<color=0xFF66CCFF>✪ --- Friendly: All (+Dro)</color>'
+- - '<color=0xFF66CCFF>✪ Friendly: All Caps</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -141,97 +140,23 @@ presets:
         - 53
     - - groups
       - - 6
-        - 10
-        - 15
-        - 25
-        - 26
-        - 27
-        - 28
-        - 29
         - 30
-        - 31
         - 90
-        - 100
-        - 101
-        - 237
-        - 310
-        - 324
-        - 358
         - 361
-        - 365
-        - 366
-        - 380
-        - 381
-        - 419
-        - 420
-        - 463
         - 479
         - 485
         - 492
         - 513
-        - 540
-        - 541
-        - 543
-        - 544
         - 547
         - 548
-        - 639
-        - 640
-        - 641
         - 659
-        - 707
-        - 830
-        - 831
-        - 832
-        - 833
-        - 834
-        - 835
-        - 836
-        - 838
-        - 839
         - 863
         - 864
         - 883
-        - 893
-        - 894
-        - 897
-        - 898
-        - 900
         - 902
-        - 906
-        - 920
-        - 925
         - 941
-        - 963
-        - 988
-        - 1003
-        - 1005
-        - 1012
-        - 1022
-        - 1149
-        - 1159
-        - 1201
-        - 1202
-        - 1246
-        - 1249
-        - 1273
-        - 1274
-        - 1275
-        - 1276
-        - 1283
-        - 1305
-        - 1316
-        - 1404
-        - 1406
-        - 1527
-        - 1534
-        - 1537
         - 1538
         - 1548
-        - 1652
-        - 1653
-        - 1657
-        - 1704
 - - '<color=0xFF66CCFF>✪ Friendly: Capitals</color>'
   - - - alwaysShownStates
       - - 11
@@ -312,6 +237,43 @@ presets:
         - 864
         - 1538
         - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Command Dest</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 6
+        - 90
+        - 361
+        - 479
+        - 492
+        - 548
+        - 863
+        - 864
+        - 1534
+        - 1548
 - - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
   - - - alwaysShownStates
       - - 11
@@ -387,6 +349,43 @@ presets:
         - 863
         - 864
         - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Flag</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 6
+        - 90
+        - 361
+        - 479
+        - 492
+        - 548
+        - 863
+        - 864
+        - 1548
+        - 1972
 - - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
   - - - alwaysShownStates
       - - 11
@@ -601,7 +600,7 @@ stateColorsNameList:
 - - background_45
   - blue
 - - background_48
-  - black
+  - white
 - - background_49
   - blue
 - - background_50
@@ -613,11 +612,11 @@ stateColorsNameList:
 - - background_9
   - orange
 - - flag_48
-  - black
+  - white
 tabSetup:
 - - 0
   - - - bracket
-      - '<color=0xFF66CCFF>✪ --- Friendly: All (+Dro)</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: All Caps</color>'
     - - name
       - ''
     - - overview
@@ -632,15 +631,22 @@ tabSetup:
 
         <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
     - - overview
-      - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: Command Dest</color>'
 - - 2
   - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
+    - - name
+      - ''
+    - - overview
       - '<color=0xFF66CCFF>✪ Friendly: Dreads</color>'
+- - 3
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Flag</color>'
     - - name
       - ''
     - - overview
       - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
-- - 3
+- - 4
   - - - bracket
       - '<color=0xFF66CCFF>✪ Friendly: Recons</color>'
     - - name

@@ -46,6 +46,7 @@ Title says it all, twisted way of showing support <3
 1. **Alberdina** - 500.000.000 ISK
 1. **Astroco** - 500.000.000 ISK [Corp]
 1. **Sindarin Alliance** - 250.000.000 ISK
+1. **Ser Ganglion** - 200.000.000 ISK
 1. **aredd05** - 153.000.000 ISK
 1. **Eirellle** - 152.205.120 ISK
 1. **Razr Wolfgang** - 150.000.000 ISK
@@ -64,6 +65,9 @@ Title says it all, twisted way of showing support <3
 1. **Parthena** - 100.000.000 ISK
 1. **Karsten** - 100.000.000 ISK
 1. **Alice Adraer** - 100.000.000 ISK
+1. **Mo Iskies** - 100.000.000 ISK
+1. **Notatallsane** - 100.000.000 ISK
+1. **NewTwixies** - 100.000.000 ISK
 1. **Ultimate-Pilot Destiny** - 78.476.429 ISK
 1. **HotterThanYou2** - 50.000.000 ISK
 1. **Aedron** - 50.000.000 ISK
@@ -73,6 +77,8 @@ Title says it all, twisted way of showing support <3
 1. **Valkh** - 50.000.000 ISK
 1. **Histachii TheGreat** - 50.000.000 ISK
 1. **Fernah Upshaw** - 50.000.000 ISK
+1. **SuhhSsilenced** - 50.000.000 ISK
+1. **Akdu Arthie** - 50.000.000 ISK
 1. **w1ndstrike** - 40.000.000 ISK
 1. **Styxx** - 33.000.000 ISK
 1. **Denali TheGreatOne** - 25.000.000 ISK
@@ -86,14 +92,19 @@ Title says it all, twisted way of showing support <3
 1. **CronicX 009** - 20.000.000 ISK
 1. **Stahn Steupe** - 20.000.000 ISK
 1. **Jaden Tivianne** - 20.000.000 ISK
+1. **deathfacade** - 20.000.000 ISK
 1. **Dan Skord** - 13.000.000 ISK
 1. **Riseing** - 10.000.000 ISK
 1. **Maliko Laduko** - 10.000.000 ISK
 1. **mr robot0** - 10.000.000 ISK
 1. **GoodKenny** - 10.000.000 ISK
 1. **Daneel Douglas** - 10.000.000 ISK
+1. **Thape Da'Op** - 10.000.000 ISK
+1. **brichardi** - 10.000.000 ISK
+1. **Twongo** - 10.000.000 ISK
 1. **Stueey Yaken** - 5.000.000 ISK
 1. **Mitotsudaira** - 5.000.000 ISK
+1. **LordGirl Flowers** - 2.000.000 ISK
 1. **Parzon Hrungy** - 1.000.000 ISK
 1. **Minoo Raholan** - 1.000.000 ISK
 1. **Worsecase Scenario** - 1.000.000 ISK
@@ -101,6 +112,10 @@ Title says it all, twisted way of showing support <3
 1. **Lucy Tra** - 1.000.000 ISK
 1. **Hwoj Oxlatl** - 1.000.000 ISK
 1. **Zhum Zattar** - 1.000.000 ISK
+1. **Carth Zen** - 1.000.000 ISK
 1. **Momoe Kawaguchi** - 500.000 ISK
 1. **Chris Eremor** - 200.000 ISK
 1. **Black Romero** - 150.000 ISK
+1. **John Idenhauzen** - 10.000 ISK
+1. **Rogatien Soldier** - 1.110 ISK
+1. **Wogby Nalelmir** - 1 ISK
